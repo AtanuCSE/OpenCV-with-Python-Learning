@@ -4,7 +4,7 @@ Tutorial link: https://www.youtube.com/watch?v=oXlwWbU8l2o&list=WL
 
 Description of files:
 
-- 01 ImageVideoRead.ipynb<br/>
+- :point_right: 01 ImageVideoRead.ipynb<br/>
   This file is for reading video or image into the code using OpenCV
-- 02 Rescale.ipynb<br/>
+- :point_right: 02 Rescale.ipynb<br/>
   Resizing image or video.
