@@ -25,3 +25,5 @@ Description of files:
   Split Image into Blue, Green, Red channels
 - :point_right: 07 BlurTypes.ipynb<br/>
   Different Types of Blurring Techinques
+- :point_right: 08 BitwiseOperationAndMasking.ipynb<br/>
+  Bitwise Operation and Use of Masking
