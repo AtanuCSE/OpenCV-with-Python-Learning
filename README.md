@@ -1,6 +1,6 @@
 # Practise ground for learning OpenCV through Python.
 
-Tutorial link: https://www.youtube.com/watch?v=oXlwWbU8l2o&list=WL
+Tutorial link: [OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o)
 
 **I've coded in Jupyter Notebook**
 
