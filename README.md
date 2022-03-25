@@ -2,6 +2,8 @@
 
 Tutorial link: https://www.youtube.com/watch?v=oXlwWbU8l2o&list=WL
 
+**I've coded in Jupyter Notebook**
+
 Description of files:
 
 - :point_right: 01 ImageVideoRead.ipynb<br/>
