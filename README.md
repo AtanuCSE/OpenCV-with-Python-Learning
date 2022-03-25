@@ -27,3 +27,6 @@ Description of files:
   Different Types of Blurring Techinques
 - :point_right: 08 BitwiseOperationAndMasking.ipynb<br/>
   Bitwise Operation and Use of Masking
+- :point_right: 09 Thresholding.ipynb<br/>
+  Thresholding An Image
+  Thresholding is basically converting an image pixels to 0 or 1
