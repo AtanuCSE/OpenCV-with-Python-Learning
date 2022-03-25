@@ -8,3 +8,12 @@ Description of files:
   This file is for reading video or image into the code using OpenCV
 - :point_right: 02 Rescale.ipynb<br/>
   Resizing image or video.
+- :point_right: 03 DrawShape.ipynb<br/>
+  Drawing Rectangle/Circle on top of image
+  Adding Text on image
+- :point_right: 04 ImageProcessingFunctions.ipynb<br/>
+  Few Important Image Processing Functions
+  - RGB to Gray
+  - Blurred
+  - Finding edges in an image
+  - Sharpening the image / Dialating
