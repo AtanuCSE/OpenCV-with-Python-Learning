@@ -19,3 +19,9 @@ Description of files:
   - Blurred
   - Finding edges in an image
   - Sharpening the image / Dialating
+- :point_right: 05 Contours.ipynb<br/>
+  Finding all contours in an image
+- :point_right: 06 ColorChannels.ipynb<br/>
+  Split Image into Blue, Green, Red channels
+- :point_right: 07 BlurTypes.ipynb<br/>
+  Different Types of Blurring Techinques
