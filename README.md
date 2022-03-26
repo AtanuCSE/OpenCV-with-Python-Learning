@@ -6,7 +6,7 @@ Tutorial link: [OpenCV Course - Full Tutorial with Python](https://www.youtube.c
 
 Description of files:
 
-### Basics
+### __Basics__
 
 - :point_right: 01 ImageVideoRead.ipynb<br/>
   This file is for reading video or image into the code using OpenCV
