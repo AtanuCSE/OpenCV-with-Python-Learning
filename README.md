@@ -37,3 +37,5 @@ Description of files:
   - Canny
   - Laplacian
   - Sobel
+- :point_right: 11 FaceDetection.ipynb<br/>
+  Face Detection using Built-in Libraries (Haarcascade Classifiers)
