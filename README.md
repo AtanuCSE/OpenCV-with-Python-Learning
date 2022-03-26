@@ -6,6 +6,8 @@ Tutorial link: [OpenCV Course - Full Tutorial with Python](https://www.youtube.c
 
 Description of files:
 
+### Basics
+
 - :point_right: 01 ImageVideoRead.ipynb<br/>
   This file is for reading video or image into the code using OpenCV
 - :point_right: 02 Rescale.ipynb<br/>
@@ -30,3 +32,8 @@ Description of files:
 - :point_right: 09 Thresholding.ipynb<br/>
   Thresholding An Image
   Thresholding is basically converting an image pixels to 0 or 1
+- :point_right: 10 EdgeDetection.ipynb<br/>
+  Finding edges of all objects in an Image
+  - Canny
+  - Laplacian
+  - Sobel
