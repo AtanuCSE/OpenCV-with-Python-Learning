@@ -40,5 +40,5 @@ Description of files:
 - :point_right: 11 FaceDetection.ipynb<br/>
   Face Detection using Built-in Libraries (Haarcascade Classifiers)
 - :point_right: 12 FaceRecognition.ipynb<br/>
-  Face Recognition with OpenCV Built-in Library
-  **Training with images in folder and testing on separate image**
+  Face Recognition with OpenCV Built-in Library<br/>
+  __**Training with images in folder and testing on separate image**__
