@@ -41,4 +41,6 @@ Description of files:
   Face Detection using Built-in Libraries (Haarcascade Classifiers)
 - :point_right: 12 FaceRecognition.ipynb<br/>
   Face Recognition with OpenCV Built-in Library<br/>
-  __**Training with images in folder and testing on separate image**__
+  **Training with images in folder and testing on separate image**
+- :point_right: 13 DataKaggleToColab.ipynb<br/>
+  Copy data from Kaggle to Colab 
