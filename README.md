@@ -43,4 +43,6 @@ Description of files:
   Face Recognition with OpenCV Built-in Library<br/>
   **Training with images in folder and testing on separate image**
 - :point_right: 13 DataKaggleToColab.ipynb<br/>
-  Copy data from Kaggle to Colab 
+  Copy data from Kaggle to Colab
+- :point_right: 14 DeepVisionRecognition.ipynb<br/>
+  A very basic tutorial for recognition with deep learning and computer vision
